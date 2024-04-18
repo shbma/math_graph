@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "path:Граф_Математика  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#объект  ",
@@ -29,17 +29,31 @@
       }
     },
     {
-      "query": "tag:#метод ",
+      "query": "tag:#метод",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 13130966
+      }
+    },
+    {
+      "query": "tag:#свойство  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
       }
     },
     {
       "query": "tag:#теорема  ",
       "color": {
         "a": 1,
-        "rgb": 11951318
+        "rgb": 14059356
+      }
+    },
+    {
+      "query": "tag:#доказательство  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
       }
     }
   ],
@@ -53,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 2.908753924053198,
+  "scale": 0.5843581180567449,
   "close": false
 }
