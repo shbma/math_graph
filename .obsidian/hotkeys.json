@@ -1,0 +1,18 @@
+{
+  "metadata-extractor:write-metadata-json": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "metadata-extractor:write-allExceptMd-json": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ]
+}
