@@ -1,4 +1,5 @@
 [
   "persistent-graph",
-  "metadata-extractor"
+  "metadata-extractor",
+  "templater-obsidian"
 ]
