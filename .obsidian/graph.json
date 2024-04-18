@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "tag:#метод ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#теорема  ",
+      "color": {
+        "a": 1,
+        "rgb": 11951318
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.8795038966951869,
   "close": false
 }
