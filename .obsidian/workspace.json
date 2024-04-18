@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "52ed1ed6a923c992",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ad4848b81d0781",
+        "type": "tabs",
+        "dimension": 43.42629482071713,
+        "children": [
+          {
+            "id": "eef8dde7c1a493e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Граф_Математика/Определение Определителя (через подстановки).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e90e22edb447df50",
+        "type": "tabs",
+        "dimension": 56.573705179282875,
+        "children": [
+          {
+            "id": "42c34d2b7428f2bf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c6375ef24c8bf0f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2fae9d3a3407604",
+    "type": "split",
+    "children": [
+      {
+        "id": "463c7beb6977a82e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ca2b898dd2ee05b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "041a1c30868cf44d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb8ed9ab2a22b955",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "right": {
+    "id": "e3fa7fc3e1fbd0a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "66567496d63103fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4896a4f06ac9c5da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Граф_Математика/Определение Определителя (через подстановки).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a87cff8fc739260d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Граф_Математика/Определение Определителя (через подстановки).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "684f6b55df70c289",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d3578c2d457c0573",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Граф_Математика/Определение Определителя (через подстановки).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eef8dde7c1a493e8",
+  "lastOpenFiles": [
+    "README.md",
+    "math_graph/README.md",
+    "math_graph",
+    "Граф_Математика/Определение Определителя (через подстановки).md",
+    "Граф_Математика/Инверсия в перестановке.md",
+    "Документация/Соглашение о названиях.md",
+    "Граф_Математика/Определение Подстановки.md",
+    "Граф_Математика/Определение Инверсии в перестановке.md",
+    "Граф_Математика/Определитель.md",
+    "Граф_Математика/Определение Матрицы (как таблица).md",
+    "Граф_Математика/Подстановка.md",
+    "Литература/Дисциплина «Математика», рабочая программа, версия 1 (1).docx",
+    "Литература/Мельникова Лекции по алгебре (2003).md",
+    "Граф_Математика/Матрица.md",
+    "Граф_Математика/Вектор.md",
+    "Граф_Математика/Определение Транспонирования Матрицы (как замена строк столбцами).md",
+    "Граф_Математика/Транспонирование.md",
+    "Таксономия/Определение.md",
+    "Таксономия/Доказательство.md",
+    "Граф_Математика/Определение Вектора (как отрезок).md",
+    "Литература/Соболев А.Б. Математика Книга 1 (Academia 2009).md",
+    "Граф_Математика/Определение Вектора (как кортеж длины n).md",
+    "Таксономия/Источник.md",
+    "Таксономия/Аксиома.md",
+    "Таксономия/Теорема.md",
+    "Таксономия/Операция.md",
+    "Таксономия/Объект.md",
+    "Таксономия/Метод.md",
+    "Литература",
+    "Документация",
+    "Граф_Математика",
+    "Таксономия/Untitled",
+    "Таксономия"
+  ]
+}
