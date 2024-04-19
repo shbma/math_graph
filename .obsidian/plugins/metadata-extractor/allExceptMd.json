@@ -19,6 +19,14 @@
     {
       "name": "Литература",
       "relativePath": "Литература"
+    },
+    {
+      "name": "Граф_Математика_Иерархия",
+      "relativePath": "Граф_Математика_Иерархия"
+    },
+    {
+      "name": "Template_scripts",
+      "relativePath": "Template_scripts"
     }
   ],
   "nonMdFiles": [
@@ -26,6 +34,11 @@
       "name": "Дисциплина «Математика», рабочая программа, версия 1 (1).docx",
       "basename": "Дисциплина «Математика», рабочая программа, версия 1 (1)",
       "relativePath": "Литература/Дисциплина «Математика», рабочая программа, версия 1 (1).docx"
+    },
+    {
+      "name": "make_uuid.js",
+      "basename": "make_uuid",
+      "relativePath": "Template_scripts/make_uuid.js"
     }
   ]
 }
