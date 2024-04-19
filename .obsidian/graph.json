@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
-  "search": "path:Граф_Математика_Иерархия  ",
+  "collapse-filter": true,
+  "search": "path:Граф_Математика  -path:Граф_Математика_Иерархия  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#объект  ",
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6989606412938097,
+  "scale": 0.6989606412938087,
   "close": false
 }
