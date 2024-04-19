@@ -1,5 +1,5 @@
 [
-  "persistent-graph",
   "metadata-extractor",
-  "templater-obsidian"
+  "templater-obsidian",
+  "quick-latex"
 ]
