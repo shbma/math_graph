@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +188,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2c6375ef24c8bf0f",
+  "active": "66a8115cdacb5f62",
   "lastOpenFiles": [
     "Документация/О привязке задач.md",
     "Граф_Математика/Теорема. О существовании и единственности обратной матрицы.md",

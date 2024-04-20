@@ -14,5 +14,13 @@
       ],
       "key": "J"
     }
+  ],
+  "yet-another-obsidian-synchronizer:sync": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }
