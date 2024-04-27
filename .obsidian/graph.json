@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "path:Граф_Математика  ",
+  "collapse-filter": true,
+  "search": "path:Граф_Математика_Иерархия  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1995433436732658,
+  "scale": 0.698960641293823,
   "close": false
 }
