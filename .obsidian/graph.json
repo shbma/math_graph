@@ -46,7 +46,7 @@
       "query": "tag:#теорема  ",
       "color": {
         "a": 1,
-        "rgb": 14071388
+        "rgb": 6468324
       }
     },
     {
@@ -67,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.189681876699691,
+  "scale": 0.7947214832363991,
   "close": false
 }
