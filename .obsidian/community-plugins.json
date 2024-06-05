@@ -3,5 +3,6 @@
   "templater-obsidian",
   "quick-latex",
   "obsidian-excalidraw-plugin",
-  "dataview"
+  "dataview",
+  "obsidian-tikzjax"
 ]
